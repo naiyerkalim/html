@@ -23,7 +23,8 @@
 //Semantic tags: Semantic tags are HTML elements that carry meaning about the structure and content of a webpage.
   //Examples of semantic tags include <header>, <footer>, <article>, <section>, <nav>, <aside>, <main>, <figure>, and <figcaption>. 
 
-//aside: The <aside> tag in HTML is a semantic element used to define content that is tangentially related to the content around it. It is typically used for content like sidebars, pull quotes, or related links. 
+//aside: The <aside> tag in HTML is a semantic element used to define content that is tangentially related to the content around it. 
+  //It is typically used for content like sidebars, pull quotes, or related links. 
 
 //inline element: These elements don't start on a new line and only occupy the width that their content requires.
 //Examples include <span>, <a>, <strong>, <em>, and <img>.
@@ -41,3 +42,10 @@
 
 //Action: action attribute in a <form> element specifies the URL or endpoint where the form data will be sent when the form is submitted.
 
+//HTML entities are special characters used in HTML to display reserved characters or characters that are not on the keyboard.
+
+//HTML meta tags provide metadata about an HTML document. They are typically used to specify page description, keywords, author of the document, and other metadata. Meta tags are placed inside the <head> section of the HTML document. 
+
+//Caching:
+  //Caching refers to the process of storing data temporarily in a "cache" so that future requests for that data can be served more quickly. 
+  //The idea is to avoid the need to fetch the same data repeatedly from its original source, which can be time-consuming.
